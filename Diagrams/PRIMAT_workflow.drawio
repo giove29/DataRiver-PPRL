@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="p8vCOz6Fv-VdYXKQBRfT">
-    <mxGraphModel dx="1012" dy="507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1229" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,41 +82,14 @@
         <mxCell id="CLXvrI2tBtwQrJEs9tmy-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ID + PARTY + RBF&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="716" y="182" as="geometry" />
         </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-38" edge="1" parent="1" source="CLXvrI2tBtwQrJEs9tmy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=82.625;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1269.7058823529412" y="220.73529411764707" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-39" edge="1" parent="1" source="CLXvrI2tBtwQrJEs9tmy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270.8823529411766" y="287.7941176470589" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-40" edge="1" parent="1" source="CLXvrI2tBtwQrJEs9tmy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=217.875;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1274.4117647058824" y="356.02941176470586" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CLXvrI2tBtwQrJEs9tmy-41" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
           <mxGeometry height="300.5" width="288" x="892" y="138" as="geometry" />
         </mxCell>
         <mxCell id="CLXvrI2tBtwQrJEs9tmy-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="LINKAGE UNIT" vertex="1">
           <mxGeometry height="30" width="117.5" x="977.25" y="92" as="geometry" />
         </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;- FieldSplitter(SplitDefinition)&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CLXvrI2tBtwQrJEs9tmy-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;STUDIARE A MODO I FILE JAVA DI PRIMAT&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="897" y="181.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=default;" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;- NormalizeDefinition(NormalizerChain)&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="897" y="215.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;- FieldNormalizer(NormalizeDefinition)&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="897" y="249.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-46" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;textShadow=0;" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;- BloomFilterExtractorDefinition(&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[QIDs], k_funcs=3+padding,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Trigram)&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="897" y="297.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CLXvrI2tBtwQrJEs9tmy-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;- BloomFilterDefinition(&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;HashingMethod,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;BF_length=2048,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;BloomFilterExtractorDefinition,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Hardening, Salting)&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="92" x="897" y="363.5" as="geometry" />
         </mxCell>
         <mxCell id="CLXvrI2tBtwQrJEs9tmy-51" edge="1" parent="1" source="CLXvrI2tBtwQrJEs9tmy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="CLXvrI2tBtwQrJEs9tmy-41">
           <mxGeometry relative="1" as="geometry" />
