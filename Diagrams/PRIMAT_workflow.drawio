@@ -154,8 +154,8 @@
         <mxCell id="R3rIba8TZb94lWcPRMR_-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N.B. il clustering è richiesto multi-sorgente e dirty-dirty" vertex="1">
           <mxGeometry height="30" width="113" x="1332" y="497" as="geometry" />
         </mxCell>
-        <mxCell id="R3rIba8TZb94lWcPRMR_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Potrebbe essere utile implementare in Python (sklearn.cluster.AffinityPropagation) sia MSCD-AP che Incremental Matching" vertex="1">
-          <mxGeometry height="30" width="250" x="1334" y="551" as="geometry" />
+        <mxCell id="R3rIba8TZb94lWcPRMR_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Potrebbe essere utile implementare in Python (sklearn.cluster.AffinityPropagation) sia MSCD-AP che Incremental Matching (presentano &lt;i&gt;return null&lt;/i&gt; in diversi punti)" vertex="1">
+          <mxGeometry height="30" width="250" x="1324" y="558" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
